@@ -1,10 +1,7 @@
 # Project on UCI Machine Learning Repository: CDC Diabetes Health Indicators
 ### Abstract: This project aims to dectect unlying bias that is not explicitly discoverable in our dataset by performing exploratory data analysis and machine learning.
-### Authors: 
-- Peter Lu
-- Shan Santhakumar
-- Tristan Dull
-- Eden Fraczkiewicz
+
+By Peter Lu
   
 Scope: CDC Diabetes Health Indicators
 The Diabetes Health Indicators Dataset contains healthcare statistics and lifestyle survey information about people in general along with their diagnosis of diabetes. The 35 features consist of some demographics, lab test results, and answers to survey questions for each patient. The target variable for classification is whether a patient has diabetes, is pre-diabetic, or healthy.
